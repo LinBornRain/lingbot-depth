@@ -6,5 +6,6 @@ __pycache__
 .vscode
 workspace*/
 result*/
-ckpt/out/
+/ckpt/
+/out/
 Log/
